@@ -1,0 +1,22 @@
+[
+  {
+    "codigo_wiener": "W-ABC123",
+    "codigo_original": "0R-7788",
+    "nombre": "Válvula solenoide 24V",
+    "descripcion": "Válvula para sistema de fluidos. Compatible con serie X.",
+    "equipo": "Equipo X100 / X200",
+    "notas": "Verificar polaridad. Requiere sello nuevo.",
+    "imagen": "images/repuesto-ABC123.jpg",
+    "estado": "Activo"
+  },
+  {
+    "codigo_wiener": "W-XYZ999",
+    "codigo_original": "OEM-45-PP",
+    "nombre": "Filtro de línea (5 micras)",
+    "descripcion": "Filtro de protección para línea de muestra.",
+    "equipo": "Analizador Z",
+    "notas": "Reemplazo recomendado cada 3 meses.",
+    "imagen": "images/repuesto-XYZ999.jpg",
+    "estado": "Activo"
+  }
+]
